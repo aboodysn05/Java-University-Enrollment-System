@@ -27,3 +27,32 @@ This project is ideal for:
 - **Key Concepts**: Inheritance, Polymorphism, Encapsulation, Exception Handling
 
 ## 📊 Project Structure
+src/
+├── procedural/ # Procedural paradigm examples
+│ ├── InsertionSort.java
+│ └── FeeCalculator.java
+├── oop/ # Object-Oriented paradigm
+│ ├── Student.java # Base class
+│ ├── ITStudent.java # Derived class
+│ ├── EngineeringStudent.java # Derived class
+│ └── RegistrationSystem.java
+└── eventdriven/ # Event-Driven paradigm with GUI
+└── UniversityGUI.java
+
+
+## 🚀 Getting Started
+1. Clone the repository
+2. Open in Eclipse or any Java IDE
+3. Run the main class for your desired paradigm demonstration
+4. Follow the on-screen instructions or GUI prompts
+
+## 📝 Author
+**Abdullah Amer Yaseen**
+- Academic Project 2022
+- Programming Using Java Final Assignment
+
+## 🌟 Why This Project Stands Out
+- Demonstrates mastery of multiple programming paradigms in one cohesive project
+- Real-world applicability with university registration scenarios
+- Clean, well-documented code following industry standards
+- Progressive complexity from simple algorithms to complex GUI interactions
